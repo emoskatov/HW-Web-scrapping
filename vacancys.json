@@ -1,0 +1,660 @@
+[
+     {
+          "Вакансия": "Программист Python",
+          "Зарплата": "от 120 000 ₽ до вычета налогов",
+          "Работодатель": "АО Котлин-Новатор",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/106463824?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "АНО ЦИСМ",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/104729022?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python-разработчик",
+          "Зарплата": "200 000 – 220 000 ₽ на руки",
+          "Работодатель": "ООО Ритейл-Процессинг",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105998581?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Senior python developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "AldanDev",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106737369?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python Developer Middle",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО Napoleon IT",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/104575532?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python Team Lead",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "USETECH",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106991042?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python Backend Developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО Норд Клан",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/103282341?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Middle Backend разработчик (Python + Golang)",
+          "Зарплата": "200 000 – 285 000 ₽ до вычета налогов",
+          "Работодатель": "Tevian (ООО Технологии видеоанализа)",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106021179?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Разработчик на Python в сервис Фемида (инструменты найма)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Яндекс",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/107013757?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Разработчик на Python в сервис Фемида (инструменты найма)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Яндекс",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/107013758?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Senior Python/PHP разработчик в отдел научно-технической разработки",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Институт искусственного интеллекта AIRI",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105757879?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python разработчик (в отдел искусственного интеллекта)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "СИНЕРГИЯ",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106961744?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python Django Developer",
+          "Зарплата": "1 000 – 1 500 $ до вычета налогов",
+          "Работодатель": "ООО Прогресс-Софт",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/105249332?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python разработчик",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Corporate Performance Systems",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105136689?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Middle backend-разработчик на Python",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "М-Холдинг",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105393845?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Middle Python developer",
+          "Зарплата": "150 000 – 200 000 ₽ на руки",
+          "Работодатель": "ООО Селфсек",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/72687504?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Team Lead Python",
+          "Зарплата": "от 350 000 ₽ на руки",
+          "Работодатель": "ООО ДТЛ",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106071649?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Middle+/Senior Python Developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО Платформа Третье Мнение",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106350502?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Старший/Ведущий разработчик Python",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО МАС Платформ",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106268270?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Разработчик Python (Антифрод/ML)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "БКС IT & Digital",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/103571119?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python-разработчик",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Coding Team",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106489261?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Разработчик Python (Отдел архитектурного сопровождения)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Сбер. IT",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105365260?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Junior Python разработчик",
+          "Зарплата": "от 125 000 ₽ на руки",
+          "Работодатель": "Monogramm",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106571399?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Ведущий разработчик Python",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО ИЦ АЙ-ТЕКО",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105372071?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Разработчик Python",
+          "Зарплата": "до 150 000 ₽ на руки",
+          "Работодатель": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/102924206?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python-разработчик",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Hyperus",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/99280907?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Fullstack-разработчик (Python)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105327672?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Junior Python developer",
+          "Зарплата": "до 60 000 ₽ до вычета налогов",
+          "Работодатель": "Emphasoft",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/106511056?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Старший разработчик на Python в сервис Яндекс HR Tech (Фемида)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Яндекс",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106734488?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Старший разработчик на Python в сервис Яндекс HR Tech (Фемида)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Яндекс",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/106734489?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО Анлимитед Продакшен",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/100502794?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python разработчик (Middle+/Senior)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ПИК",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/103982331?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Senior/Lead Python - разработчик",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Контур",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106548465?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python разработчик (роботизация)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ПАО МегаФон, IT",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/106367079?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python Разработчик",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ЦРТ | Группа компаний",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/106217330?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Middle Python Разработчик (Протоколы взаимодействия)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Sitronics Group",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106508234?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python Developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Сбер для экспертов",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106101010?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Разработчик Python",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "АО Промышленные инновации",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106093526?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python разработчик, Группа разработки приложений",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Kept, ИТ-сервисы",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106450766?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python developer (Senior)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО ИЦ АЙ-ТЕКО",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106185594?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Руководитель разработки Python",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Группа компаний Астра",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/92217665?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Backend-разработчик",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ЗАО НОРСИ-ТРАНС",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105724706?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Backend Python Developer",
+          "Зарплата": "от 200 000 ₽ на руки",
+          "Работодатель": "ООО Пауэр Аиконтрол",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/106040532?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Разработчик Python",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Smart Design",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/105931088?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python разработчик",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Московский метрополитен",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/102742641?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Backend разработчик",
+          "Зарплата": "от 200 000 ₽ на руки",
+          "Работодатель": "DV Group",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106976294?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Senior python developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ARHITEX",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106068884?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python разработчик (ТехноХаб)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "SberTech",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106054239?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Full-Stack Developer",
+          "Зарплата": "от 250 000 ₽ на руки",
+          "Работодатель": "ИП Панин Павел Сергеевич",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105880104?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Full-Stack Developer",
+          "Зарплата": "от 250 000 ₽ на руки",
+          "Работодатель": "ИП Панин Павел Сергеевич",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/105880105?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Разработчик Python (Senior)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО ИЦ АЙ-ТЕКО",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105133634?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Senior Performance Engineer (Python)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "X5 Digital",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106139794?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python Developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Admire",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105240421?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Разработчик Python Junior",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Smart Design",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/105931326?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Backend-разработчик / Разработчик Python",
+          "Зарплата": "от 230 000 ₽ до вычета налогов",
+          "Работодатель": "Университет ИТМО",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/106002970?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Middle Full-Stack Developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Recruitment Boutique S.M.Art",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105544432?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Backend-разработчик (Python)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО Модум-Транс",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/103885193?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Python Backend Developer (Middle/Middle+)",
+          "Зарплата": "180 000 – 180 000 ₽ на руки",
+          "Работодатель": "АО НИИ МАСШТАБ",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/106409862?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Data Engineer (CDP Platform)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "МТС Банк. IT",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106920155?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Flutter Разработчик",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО Корпорация ЗНАК",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106125995?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Middle / Senior Python Developer (удаленно)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "RedLab",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105993883?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Senior python developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Сбер. IT",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105811229?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Руководитель отдела разработки ПО (Python)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО ГК Иннотех | Финтех (Иннотех)",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/104546931?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Middle/Senior Python developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "АО К-ТЕХНОЛОГИИ",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105911362?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Продуктовый аналитик",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "X5 Tech",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/107009080?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Senior Python Developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО ИЦ АЙ-ТЕКО",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105690482?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Backend Developer, Middle / Senior",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Сбер для экспертов",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106968690?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Middle+ Backend Разработчик (Python)",
+          "Зарплата": "100 000 – 150 000 ₽ на руки",
+          "Работодатель": "ООО Авангард",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105799450?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Frontend Developer (Middle / Senior)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Сбер для экспертов",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106966378?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Senior Python Backend developer / Инженер-программист (Testing Tools)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "YADRO",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/97223559?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Backend разработчик ( OFFLINE )",
+          "Зарплата": "300 000 – 400 000 ₽ на руки",
+          "Работодатель": "ГК АВТОРУСЬ",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106101575?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "PHP Technical Lead",
+          "Зарплата": "от 4 000 $ на руки",
+          "Работодатель": "Americor Funding Inc",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105883478?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Системный администратор Linux / Kubernetes (Middle DevOps инженер)",
+          "Зарплата": "180 000 – 250 000 ₽ на руки",
+          "Работодатель": "ООО РА Дельта",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105841330?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Project manager (AI, SMM)",
+          "Зарплата": "110 000 – 130 000 ₽ на руки",
+          "Работодатель": "ООО Мевикс",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/104900747?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Преподаватель по направлениям: Майнкрафт, Роблокс, Скретч, Юнити",
+          "Зарплата": "от 48 000 ₽ на руки",
+          "Работодатель": "Brainhub",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106102311?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Инженер по Искусственному интеллекту / ML/DL engineer",
+          "Зарплата": "от 150 000 ₽ на руки",
+          "Работодатель": "ООО Содружество Балтика-Транс",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/106879689?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Backend-разработчик",
+          "Зарплата": "от 170 000 ₽ на руки",
+          "Работодатель": "ИП Жарашуева Зита Хажимуссаевна",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106652150?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Full-Stack Developer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ООО ФОРКТЕК",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106733960?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Технический директор (CTO)",
+          "Зарплата": "от 400 000 ₽ на руки",
+          "Работодатель": "Газарова Екатерина Владимировна",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106630723?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Разработчик AI решений",
+          "Зарплата": "75 000 – 100 000 ₽ до вычета налогов",
+          "Работодатель": "ООО Силикон Кнайтс",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/106579716?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Machine Learning / Machine Learning Ops Engineer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/99703472?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Автор / преподаватель курса \"Веб-разработка\" для онлайн-магистратуры \"Разработка IT-продукта\"",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "МФТИ",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/104984817?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Data Scientist (GenAI)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "БКС IT & Digital",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106524363?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Junior machine learning",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "СОГАЗ: г. Москва",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/103921497?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Старший бэкенд-разработчик (внутренняя разработка)/Sr Backend",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Ventra",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106377400?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Fullstack JUNIOR (государственная гражданская служба)",
+          "Зарплата": "от 60 000 ₽ на руки",
+          "Работодатель": "Межрегиональная инспекция Федеральной налоговой службы по централизованной обработке данных № 2",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105720753?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Ручной тестировщик/Manual QA Engineer",
+          "Зарплата": "от 120 000 ₽ на руки",
+          "Работодатель": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+          "Город": "Санкт-Петербург",
+          "Ссылка": "https://spb.hh.ru/vacancy/105880015?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Главный эксперт",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "ЛУКОЙЛ",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/106217658?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Data Engineer",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "МТС Банк. IT",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/98230521?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Старший бэкенд-разработчик (внутренняя разработка)/ Sr Backend",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Вкусно — и точка",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/98729072?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Инженер по машинному обучению / Разработчик в области NLP/ML/LLM/backend developer",
+          "Зарплата": "до 400 $ до вычета налогов",
+          "Работодатель": "Tova",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105886163?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Аналитик",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "АО Первая Грузовая Компания, IT/Digital",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105861019?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Data Scientist (Classic ML)",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "БКС IT & Digital",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105998386?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     },
+     {
+          "Вакансия": "Middle Data Scientist",
+          "Зарплата": "Зарплата не указана!",
+          "Работодатель": "Работа.ру",
+          "Город": "Москва",
+          "Ссылка": "https://spb.hh.ru/vacancy/105845466?query=Python+django+flask&hhtmFrom=vacancy_search_list"
+     }
+]

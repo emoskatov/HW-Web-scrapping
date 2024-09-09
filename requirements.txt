@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.3
+bs4==0.0.2
+certifi==2024.8.30
+charset-normalizer==3.3.2
+fake-headers==1.0.2
+html5lib==1.1
+idna==3.8
+pi==0.1.2
+requests==2.32.3
+six==1.16.0
+soupsieve==2.6
+tqdm==4.66.5
+urllib3==2.2.2
+webencodings==0.5.1
