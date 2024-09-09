@@ -59,7 +59,6 @@ while True:  # выполняем пока не закончатся стран�
             # Получаем город
             city = vacancie.find("span", {"data-qa": "vacancy-serp__vacancy-address"}).text  # Поиск по атрибуту
 
-            # print(vacancie_tag_a.text, salary_el, employer, city, '-->', href)
 
             finall_dict = {
                 "Вакансия": vacancie_tag_a.text,
@@ -71,8 +70,7 @@ while True:  # выполняем пока не закончатся стран�
 
             finall_list.append(finall_dict)
 
-        # Узнаем максимальное количество страниц page для заданного items_on_page
-        max_pages = soup.find("a", {'class': re.compile("magritte-number-pages-action-selected*")}).text
+        # Так ка мы получаем по 20 вакансий на странице, если их меньше значит больше нет вакансий
         if len(vacancies) < 20:
             raise IndexError
 
